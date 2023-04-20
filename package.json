@@ -1,0 +1,12 @@
+{
+  "name": "taller2_jfvargas",
+  "version": "1.0.0",
+  "description": "��#\u0000 \u0000T\u0000a\u0000l\u0000l\u0000e\u0000r\u00002\u0000_\u0000J\u0000F\u0000V\u0000a\u0000r\u0000g\u0000a\u0000s\u0000\r\u0000 \u0000\r\u0000 \u0000T\u0000a\u0000l\u0000l\u0000e\u0000r\u0000 \u00002\u0000 \u0000T\u0000y\u0000p\u0000e\u0000S\u0000c\u0000r\u0000i\u0000p\u0000t\u0000 \u0000D\u0000e\u0000s\u0000a\u0000r\u0000r\u0000o\u0000l\u0000l\u0000o\u0000_\u0000w\u0000e\u0000b\u0000_\u0000f\u0000r\u0000o\u0000n\u0000t\u0000_\u0000e\u0000n\u0000d\u0000_\u0000i\u0000n\u0000t\u0000e\u0000r\u0000m\u0000e\u0000d\u0000i\u0000o\u0000\r\u0000 \u0000",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
