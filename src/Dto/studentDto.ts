@@ -1,9 +1,9 @@
 export interface StudentDto {
-    typeOfIdentification: number;
-    identificationNumber: string;
+    typeOfIdentification?: number;
+    identificationNumber?: string;
     names: string;
     lastNames: string;
-    cellphone: number;
+    cellphone: string;
     email: string;
     linkedinUrl: string;
     githubUrl: string;
